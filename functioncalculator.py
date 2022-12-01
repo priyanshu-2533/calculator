@@ -19,7 +19,7 @@ while True:
     num2 = int(input("Enter num2:"))
     if choice==1:
         print(add(num1,num2))
-    elif choice==2:\
+    elif choice==2:
         print(sub(num1,num2))
     elif choice==3:
         print(product(num1,num2))
